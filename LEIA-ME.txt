@@ -1,0 +1,25 @@
+VESTÍGIOS — ATLAS ARQUEOLÓGICO
+
+Abra index.html no navegador. Não precisa instalar dependências ou inserir chave de API. Todos os dados, mapa e fotografias estão incluídos e funcionam offline. Os links de fontes exigem internet.
+
+Arquivos:
+index.html: estrutura da página
+styles.css: cores, fontes, layout e responsividade
+app.js: mapa, agrupamento, cartões, zoom e navegação
+data/sites.js: nomes, coordenadas, idades, países e fontes
+data/world.js: geometria dos países (Natural Earth, resolução simplificada)
+data/photo-credits.json: autoria, origem e licenças de todas as fotos
+images/: 25 fotografias locais
+vendor/: Leaflet 1.9.4
+
+As idades são aproximadas, referentes às fases explicitadas em cada cartão, com referência temporal em 2026. Não indicam necessariamente a primeira ocupação do lugar. A seleção é introdutória e não exaustiva. Pontos de parques e áreas extensas são representativos. Fronteiras do mapa são simplificadas; não servem para delimitação jurídica ou navegação.
+
+Fotografias: Wikimedia Commons. Algumas estão em resolução reduzida. Licenças e autoria estão nos cartões e no arquivo de créditos. Preserve a atribuição e as condições de cada licença ao reutilizar as imagens.
+
+Acessibilidade: seleção nativa por nome como alternativa aos pontos, marcadores operáveis pelo teclado, foco visível, Escape fecha o cartão, controles de 44px e respeito a movimento reduzido.
+
+Referências de interface:
+https://leafletjs.com/examples/accessibility/
+https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html
+
+Dados históricos: páginas específicas da UNESCO indicadas em cada registro; confira as notas sobre períodos e incertezas.

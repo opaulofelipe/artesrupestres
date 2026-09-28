@@ -1,0 +1,514 @@
+[
+  {
+    "title": "Giza pyramid complex",
+    "source": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg",
+    "path": "images/giza.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "author": "KennyOMG",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 330,
+    "height": 137,
+    "site": "Pirâmides de Gizé",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Petra",
+    "source": "https://en.wikipedia.org/wiki/Petra",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Treasury_petra_crop.jpeg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Treasury_petra_crop.jpeg/960px-Treasury_petra_crop.jpeg",
+    "path": "images/petra.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/2.0"
+    ],
+    "file": "File:Treasury_petra_crop.jpeg",
+    "author": "Al_Khazneh_Petra.jpg: Graham Racher from London, UK\nderivative work: MrPanyGoff",
+    "licenses": [
+      "CC BY-SA 2.0"
+    ],
+    "width": 960,
+    "height": 1161,
+    "site": "Petra",
+    "selectedLicense": "CC BY-SA 2.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Göbekli Tepe",
+    "source": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+    "path": "images/gobekli.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/3.0"
+    ],
+    "file": "File:Göbekli_Tepe,_Urfa.jpg",
+    "author": "Teomancimit",
+    "licenses": [
+      "CC BY-SA 3.0"
+    ],
+    "localProcessing": "Resized to maximum 1600 pixels; JPEG quality 88",
+    "width": 1600,
+    "height": 1063,
+    "site": "Göbekli Tepe",
+    "selectedLicense": "CC BY-SA 3.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Stonehenge",
+    "source": "https://en.wikipedia.org/wiki/Stonehenge",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/960px-Stonehenge2007_07_30.jpg",
+    "path": "images/stonehenge.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/2.0"
+    ],
+    "file": "File:Stonehenge2007_07_30.jpg",
+    "author": "garethwiscombe",
+    "licenses": [
+      "CC BY 2.0"
+    ],
+    "width": 960,
+    "height": 720,
+    "site": "Stonehenge",
+    "selectedLicense": "CC BY 2.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Newgrange",
+    "source": "https://en.wikipedia.org/wiki/Newgrange",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Irelands_history.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irelands_history.jpg",
+    "path": "images/newgrange.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Irelands_history.jpg",
+    "author": "Tjp finn",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "localProcessing": "Resized to maximum 1600 pixels; JPEG quality 88",
+    "width": 1600,
+    "height": 1200,
+    "site": "Newgrange",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Lascaux",
+    "source": "https://en.wikipedia.org/wiki/Lascaux",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg",
+    "path": "images/lascaux.jpg",
+    "licenseUrls": [
+      "http://www.gnu.org/copyleft/fdl.html",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "file": "File:Lascaux_painting.jpg",
+    "author": "EU",
+    "licenses": [
+      "GFDL",
+      "CC BY-SA 3.0",
+      "Public domain",
+      "PDM"
+    ],
+    "localProcessing": "Resized to maximum 1600 pixels; JPEG quality 88",
+    "width": 720,
+    "height": 472,
+    "site": "Lascaux",
+    "selectedLicense": "CC BY-SA 3.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Pompeii",
+    "source": "https://en.wikipedia.org/wiki/Pompeii",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/250px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg",
+    "path": "images/pompeii.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "author": "Carsten Steger",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 250,
+    "height": 154,
+    "site": "Pompeia",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Acropolis of Athens",
+    "source": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg/960px-1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+    "path": "images/acropolis.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 960,
+    "height": 640,
+    "site": "Acrópole de Atenas",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Knossos",
+    "source": "https://en.wikipedia.org/wiki/Knossos",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Armon_Knossos_P1060093.JPG",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Armon_Knossos_P1060093.JPG/960px-Armon_Knossos_P1060093.JPG",
+    "path": "images/knossos.jpg",
+    "licenseUrls": [
+      "http://www.gnu.org/copyleft/fdl.html",
+      "https://creativecommons.org/licenses/by-sa/3.0"
+    ],
+    "file": "File:Armon_Knossos_P1060093.JPG",
+    "author": "Deror_avi",
+    "licenses": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "width": 960,
+    "height": 720,
+    "site": "Cnossos",
+    "selectedLicense": "CC BY-SA 3.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Çatalhöyük",
+    "source": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg/330px-%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg",
+    "path": "images/catalhoyuk.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Çatalhöyük,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg",
+    "author": "Murat Özsoy 1958",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 330,
+    "height": 152,
+    "site": "Çatalhöyük",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Ur",
+    "source": "https://en.wikipedia.org/wiki/Ur",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ziggurat_of_UrInbound1427286134917083377.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ziggurat_of_UrInbound1427286134917083377.jpg/960px-Ziggurat_of_UrInbound1427286134917083377.jpg",
+    "path": "images/ur.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Ziggurat_of_UrInbound1427286134917083377.jpg",
+    "author": "مجتبى حميد (Mojtaba Hamid)",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 960,
+    "height": 729,
+    "site": "Ur",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Persepolis",
+    "source": "https://en.wikipedia.org/wiki/Persepolis",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran%2C_Persepolis%2C_Tachara_(from_the_southeast).jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/330px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg",
+    "path": "images/persepolis.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "file": "File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+    "author": "Laurens R. Krol",
+    "licenses": [
+      "CC BY 4.0"
+    ],
+    "width": 330,
+    "height": 219,
+    "site": "Persépolis",
+    "selectedLicense": "CC BY 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Mohenjo-daro",
+    "source": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG/250px-Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+    "path": "images/mohenjo.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/3.0"
+    ],
+    "file": "File:Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+    "author": "Saqib Qayyum",
+    "licenses": [
+      "CC BY-SA 3.0"
+    ],
+    "width": 250,
+    "height": 187,
+    "site": "Mohenjo-daro",
+    "selectedLicense": "CC BY-SA 3.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Angkor",
+    "source": "https://en.wikipedia.org/wiki/Angkor",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_07.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Angkor_Wat_reflejado_en_un_estanque_07.jpg/960px-Angkor_Wat_reflejado_en_un_estanque_07.jpg",
+    "path": "images/angkor.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Angkor_Wat_reflejado_en_un_estanque_07.jpg",
+    "author": "LBM1948",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 960,
+    "height": 318,
+    "site": "Angkor",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Borobudur",
+    "source": "https://en.wikipedia.org/wiki/Borobudur",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/960px-Borobudur-Nothwest-view.jpg",
+    "path": "images/borobudur.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/3.0",
+      "http://www.gnu.org/copyleft/fdl.html"
+    ],
+    "file": "File:Borobudur-Nothwest-view.jpg",
+    "author": "Gunawan Kartapranata",
+    "licenses": [
+      "CC BY-SA 3.0",
+      "GFDL"
+    ],
+    "width": 960,
+    "height": 378,
+    "site": "Borobudur",
+    "selectedLicense": "CC BY-SA 3.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Terracotta Army",
+    "source": "https://en.wikipedia.org/wiki/Terracotta_Army",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/960px-51714-Terracota-Army.jpg",
+    "path": "images/terracotta.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/2.0"
+    ],
+    "file": "File:51714-Terracota-Army.jpg",
+    "author": "xiquinhosilva",
+    "licenses": [
+      "CC BY 2.0"
+    ],
+    "width": 960,
+    "height": 636,
+    "site": "Exército de Terracota",
+    "selectedLicense": "CC BY 2.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Machu Picchu",
+    "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Machu_Picchu%2C_2023_(012).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/960px-Machu_Picchu%2C_2023_%28012%29.jpg",
+    "path": "images/machu.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Machu_Picchu,_2023_(012).jpg",
+    "author": "Draceane",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 960,
+    "height": 640,
+    "site": "Machu Picchu",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Chichen Itza",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/960px-Chichen_Itza_3.jpg",
+    "path": "images/chichen.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Chichen_Itza_3.jpg",
+    "author": "Daniel Schwen",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 960,
+    "height": 511,
+    "site": "Chichén Itzá",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Teotihuacan",
+    "source": "https://en.wikipedia.org/wiki/Teotihuacan",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg/960px-ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+    "path": "images/teotihuacan.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:ZA77_Teotihuacán_edo_de_mex_Herberto_de_la_rosa.jpg",
+    "author": "Hdlrosa",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 960,
+    "height": 638,
+    "site": "Teotihuacán",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Tikal",
+    "source": "https://en.wikipedia.org/wiki/Tikal",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tikal_3.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tikal_3.jpg/330px-Tikal_3.jpg",
+    "path": "images/tikal.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Tikal_3.jpg",
+    "author": "Mundo Maya",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 330,
+    "height": 220,
+    "site": "Tikal",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Nazca Lines",
+    "source": "https://en.wikipedia.org/wiki/Nazca_Lines",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/250px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+    "path": "images/nazca.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Líneas_de_Nazca,_Nazca,_Perú,_2015-07-29,_DD_49.JPG",
+    "author": "Diego Delso (1974–)",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 250,
+    "height": 166,
+    "site": "Linhas de Nazca",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Serra da Capivara National Park",
+    "source": "https://en.wikipedia.org/wiki/Serra_da_Capivara_National_Park",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Parque_nacional_serra_da_capivara-THIAGO_CAMPI-03.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Parque_nacional_serra_da_capivara-THIAGO_CAMPI-03.jpg/330px-Parque_nacional_serra_da_capivara-THIAGO_CAMPI-03.jpg",
+    "path": "images/capivara.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Parque_nacional_serra_da_capivara-THIAGO_CAMPI-03.jpg",
+    "author": "Thiagomarcelcampi",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 330,
+    "height": 220,
+    "site": "Serra da Capivara",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Great Zimbabwe",
+    "source": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg/330px-Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
+    "path": "images/zimbabwe.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/2.0"
+    ],
+    "file": "File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+    "author": "Andrew Moore from Johannesburg, South Africa",
+    "licenses": [
+      "CC BY-SA 2.0"
+    ],
+    "width": 330,
+    "height": 220,
+    "site": "Grande Zimbábue",
+    "selectedLicense": "CC BY-SA 2.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Easter Island",
+    "source": "https://en.wikipedia.org/wiki/Easter_Island",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Easter_Island_5.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/250px-Easter_Island_5.jpg",
+    "path": "images/rapanui.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "file": "File:Easter_Island_5.jpg",
+    "author": "kallerna",
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "width": 250,
+    "height": 167,
+    "site": "Rapa Nui",
+    "selectedLicense": "CC BY-SA 4.0",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  },
+  {
+    "title": "Kakadu National Park",
+    "source": "https://en.wikipedia.org/wiki/Kakadu_National_Park",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Aboriginal_Art_Australia(6).jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Aboriginal_Art_Australia%286%29.jpg/250px-Aboriginal_Art_Australia%286%29.jpg",
+    "path": "images/kakadu.jpg",
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by-sa/2.5"
+    ],
+    "file": "File:Aboriginal_Art_Australia(6).jpg",
+    "author": "Thomas Schoch",
+    "licenses": [
+      "CC BY-SA 2.5"
+    ],
+    "width": 250,
+    "height": 187,
+    "site": "Kakadu",
+    "selectedLicense": "CC BY-SA 2.5",
+    "presentation": "Imagem ajustada ao enquadramento do cartão; arquivo local eventualmente redimensionado."
+  }
+]
