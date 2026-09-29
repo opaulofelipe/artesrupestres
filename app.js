@@ -323,7 +323,6 @@ function openSite(id) {
   if(!s) return;
 
   selected=id;
-  $('site-select').value=id;
   $('card-title').textContent=s.name;
   $('card-description').textContent=s.description;
   $('card-region').textContent=s.region;
@@ -348,26 +347,13 @@ function closeCard() {
   photoRequest++;
   $('site-card').hidden=true;
   document.body.classList.remove('card-open');
-  $('site-select').value='';
   applyTransform();
-  $('site-select').focus({preventScroll:true});
+  mapEl.focus({preventScroll:true});
 }
 
 function init() {
   buildMap();
 
-  sites.slice()
-    .sort((a,b)=>a.name.localeCompare(b.name,'pt-BR'))
-    .forEach(s=>{
-      const option=document.createElement('option');
-      option.value=s.id;
-      option.textContent=s.name+' · '+s.country;
-      $('site-select').appendChild(option);
-    });
-
-  $('site-select').addEventListener('change',e=>{
-    if(e.target.value) openSite(e.target.value);
-  });
   $('close-card').addEventListener('click',closeCard);
   $('zoom-in').addEventListener('click',()=>zoomAt(1.32));
   $('zoom-out').addEventListener('click',()=>zoomAt(.76));
