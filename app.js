@@ -347,7 +347,7 @@ function closeCard() {
   photoRequest++;
   $('site-card').hidden=true;
   document.body.classList.remove('card-open');
-  applyTransform();
+  resetMap();
   mapEl.focus({preventScroll:true});
 }
 
